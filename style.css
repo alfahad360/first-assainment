@@ -1,5 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+a {
+    text-decoration: none;
+}
 .section-1 {
     background-image: url(images/donate.jpg);
     background-repeat: no-repeat;
     background-position: center;
+   width: 100%;
+   height: auto;
+  
+    
+}
+.section-1-header {
+   padding-top: 35px;
+}
+.section-1-header h1 {
+    font-size: 45px;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.section-1-header p {
+    color: #ffff;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.link {
+    text-align: center;
+   padding-bottom: 70px;
+   
+}
+.link a {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: #FF5959;
+    padding: 13px 25px;
+   border-radius: 5px;
 }
