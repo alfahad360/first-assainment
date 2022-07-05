@@ -46,3 +46,48 @@ a {
     padding: 13px 25px;
    border-radius: 5px;
 }
+
+.section-2 {
+    
+    
+}
+.section-2-head {
+    text-align: center;
+}
+.section-2-head  h1 {
+    font-size: 35px;
+    font-weight: 700;
+}
+.section-2-head p {
+    font-size: 13px;
+    font-weight: 600;
+    color: gray;
+}
+.taka {
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 50px;
+}
+.taka h1 {
+    font-weight: 600;
+    color: gray;
+    padding: 30px;
+}
+.tk:hover {
+    border: 1.5px solid #FF5959;
+    padding: 15px 15px;
+    background-color: #FFEEEE;
+    border-radius: 3px;
+
+}
+.amount {
+    margin-top: 30px;
+}
+.amount p {
+    text-align: center;
+    font-size: 13px;
+    color: gray;
+    
+   
+}
