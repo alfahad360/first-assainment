@@ -3,6 +3,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 a {
     text-decoration: none;
@@ -232,8 +233,8 @@ a {
     font-weight: 700;
  }
  .section-4-text p {
-    font-size: 15px;
-    font-weight: 600;
+    font-size: 13px;
+    font-weight: 550;
     color: gray;
  }
  .section-4-img img {
@@ -264,6 +265,82 @@ a {
     border-radius: 8px;
 }
 .section-5-text {
-    width: 400px;
-    margin-left: 50px;
+    width: 370px;
+    margin-left: 70px;
 }
+.section-5-text h1 {
+    font-size: 35px;
+    font-weight: 600;
+
+}
+.section-5-text p {
+    font-size: 13px;
+    font-weight: 600;
+    color: gray;
+    
+}
+.section-5-text a {
+    color: #fff;
+    background-color: #FF5959;
+    padding: 13px 22px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 8px;
+}
+ /*=-=-=-=-=-section-5 end=-==-=-=-=-=-=*/
+
+ .section-6 {
+    text-align: center;
+    margin-top: 100px;
+ }
+ .section-6 h1 {
+    font-weight: 600;
+ }
+ .section-6 p {
+    font-size: 14px;
+    color: gray;
+    font-weight: 550;
+ }
+ .email {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .mail {
+    background-color: #FFF4D6;
+    padding-left: 70px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 70px;
+    width: 500px ;
+ }
+ .mail input {
+    padding: 12px 15px ;
+    border: none;
+    background-color: #D9D9D9;
+    border-radius: 3px;
+ }
+ .mail a {
+    background-color: #FF5959;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 13px;
+    border-radius: 3px;
+   
+ }
+  /*=-=-=-=-=-section-6 end=-==-=-=-=-=-=*/
+
+  .section-7 {
+    background-color: #0B0D17;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .section-7 h2 {
+    color: #FF5959;
+    text-align: center;
+  }
+  .humble p {
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+  }
