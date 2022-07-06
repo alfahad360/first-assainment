@@ -46,6 +46,8 @@ a {
     padding: 13px 25px;
    border-radius: 5px;
 }
+            /*=-=-=-=-=-section-1 end=-==-=-=-=-=-=*/
+
 
 .section-2 {
     
@@ -118,6 +120,8 @@ a {
     padding: 10px 18px ;
     border-radius: 5px;
 }
+
+             /*=-=-=-=-=-section-1 end=-==-=-=-=-=-=*/
 
 
 .section-3 {
@@ -206,4 +210,60 @@ a {
     font-size: 13px;
     font-weight: 600;
     color: gray;
+}
+
+ /*=-=-=-=-=-section-3 end=-==-=-=-=-=-=*/
+
+ .section-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+ }
+ .section-4-img {
+  
+ }
+ .section-4-text {
+    width: 370px;
+    margin-right: 40px;
+ }
+ .section-4-text h1 {
+    font-size: 30px;
+    font-weight: 700;
+ }
+ .section-4-text p {
+    font-size: 15px;
+    font-weight: 600;
+    color: gray;
+ }
+ .section-4-img img {
+    height: 350px;
+    width: 330px;
+    border-radius: 8px;
+ }
+ .section-4-text a {
+    color: #fff;
+    background-color: #FF5959;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 20px ;
+    border-radius: 5px;
+ }
+
+ /*=-=-=-=-=-section-4 end=-==-=-=-=-=-=*/
+.section-5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.section-5-img {}
+.section-5-img img {
+    height: 350px;
+    width: 330px;
+    border-radius: 8px;
+}
+.section-5-text {
+    width: 400px;
+    margin-left: 50px;
 }
